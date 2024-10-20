@@ -1,10 +1,33 @@
-# Job-Portal
-This project is a Job Portal web application developed using Java, HTML, CSS, and MySQL. It provides an interactive platform for job seekers and employers to connect. The job seekers can browse available job postings, submit applications, and manage their profiles, while employers can post jobs and review candidates.
+# Job Portal Project
 
-# Features
-User Authentication: Separate login and registration functionalities for job seekers and employers.
-Job Postings: Employers can create, edit, and delete job postings with details like job title, description, and required qualifications.
-Job Search: Job seekers can search and filter job listings based on various criteria such as job title, location, and industry.
-Application Management: Job seekers can apply for jobs, and employers can view and manage applicants.
-Profile Management: Both job seekers and employers can manage their profiles with personal or company details.
-Database Integration: Job and user data are stored in a MySQL database.
+<!-- Project Title: Choose a concise, descriptive title for your project. -->
+
+## Overview
+
+<!-- Briefly describe your project here. -->
+This project is a web-based Job Portal that allows job seekers and employers to connect in a user-friendly manner. It is developed using **Java**, **HTML**, **CSS**, and **MySQL**.
+
+## Features
+
+<!-- List key features of your job portal project. You can add more if necessary. -->
+- **User Authentication**: Separate login for job seekers and employers.
+- **Job Postings**: Employers can create, edit, and delete job postings.
+- **Job Search**: Job seekers can search for jobs using various filters.
+- **Application Submission**: Job seekers can apply to jobs with a single click.
+- **Profile Management**: Both employers and job seekers can manage their profiles.
+- **Admin Panel**: Admin can manage job listings and user data.
+  
+## Technologies Used
+
+<!-- This section highlights the tech stack and tools used to build the project. -->
+- **Backend**: Java (JSP/Servlets)
+- **Frontend**: HTML, CSS
+- **Database**: MySQL
+- **Version Control**: Git
+
+## Installation & Setup
+
+<!-- Instructions for setting up the project locally. -->
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/job-portal.git
