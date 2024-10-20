@@ -30,4 +30,4 @@ This project is a web-based Job Portal that allows job seekers and employers to 
 <!-- Instructions for setting up the project locally. -->
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/job-portal.git
+   git clone https://github.com/sahilahemad/Job-Portal.git
